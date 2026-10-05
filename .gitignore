@@ -10,7 +10,6 @@ ENV/
 .venv/
 
 # Editor directories and files
-.vscode/
 .idea/
 *.suo
 *.ntvs*
@@ -21,3 +20,5 @@ ENV/
 # OS generated files
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
